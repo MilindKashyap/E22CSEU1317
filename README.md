@@ -1,5 +1,4 @@
-E22CSEU1321
-Affordmed Campus Evaluation | BU
+E22CSEU1317 Affordmed Campus Evaluation | BU
 Social Media Anaylitics Front End Web Application
 
 ### Feed Page Preview  
